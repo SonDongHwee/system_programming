@@ -1,4 +1,4 @@
-# system_programming 2022 fall
+# system_programming 2022 fall @SNU
 
 ## -prof Byoungyoug Lee
 
