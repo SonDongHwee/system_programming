@@ -15,3 +15,12 @@
 ### LAB6 : Debugger lab
 
 ### LAB7 : Proxy lab
+
+---
+##TODO: Additional lab from csapp which not covered in the class
+
+### Architecture Lab 
+
+### Cache Lab
+
+### Performance Lab
