@@ -17,8 +17,7 @@
 ### LAB7 : Proxy lab
 
 ---
-
-##TODO: Additional lab from csapp which not covered in the class
+## TODO: Additional lab from csapp which not covered in the class
 
 ### Architecture Lab 
 
